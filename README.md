@@ -31,3 +31,5 @@ With SmartFolders, you can achieve a superior organization of your assets within
 ---
 
 SmartFolders aims to make your Unreal Engine projects cleaner and your workflow more efficient, giving you full control over how your content is structured.
+
+![Interfaz](https://github.com/user-attachments/assets/3a7b01d7-54b5-4d86-81ce-5182892f2990)
